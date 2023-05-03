@@ -1,4 +1,4 @@
-### Do not use the properties listed below as the're overwriten by Azure:
+### Do not use the properties listed below as the're overwriten by Azure:
 ___
 
 1.  eureka.client.service-url.defaultZone
